@@ -1,4 +1,5 @@
 pull����
 远程出现乱码
 获取到远程信息并重新提交与更改
-hubliderx些人
+hubliderx些人远程
+远程操作
